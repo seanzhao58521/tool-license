@@ -1,7 +1,7 @@
 {
   "v": "v3",
-  "ts": 1788157310,
-  "expiry": 1788416510,
+  "ts": 1788319645,
+  "expiry": 1788578845,
   "mids": [
     "1c01b3eda2a0169fee750e4b070bf61ce91b01d0c7058917ad8b75d2f230750c"
   ],
@@ -10,5 +10,5 @@
   ],
   "run_window": 5,
   "probe_base": 20,
-  "sig": "8ebffd9f7403aad99a3f26af3cda96a757668b11422b49e9a3efe6f56222149fcefe5e95a8deecd43cef5c21d404a372bf629df9cb1d279f893a2465df4a910f"
+  "sig": "66c67fbd6953f3415532d43c9ec251b8a58f64966cc9e62c75861aa20127a36e90ae2450ff874eaaf7489d27f06abb1bf62f00e9ed3bb975fc3a3119eb42d801"
 }
